@@ -13,7 +13,7 @@ A smooth rental and lending web app with secure authentication, admin/user dashb
 
 🚀 Personal Projects
 
-🚗 [Veloride Ridesharing App](https://www.veloride-frontend.vercel.app)  
+🚗 [Veloride Ridesharing App](https://veloride-frontend.vercel.app)  
 A ride-finding and offering platform with real-time map integration.  
 - Built **driver & user dashboards** for managing rides.
 - Integrated **wallet system** with balance tracking.
@@ -22,7 +22,7 @@ A ride-finding and offering platform with real-time map integration.
 - Enabled **SafePay** for secure, smooth transactions.  
 **(ML-based dynamic ride suggestions and route optimization)**
 
-📊 [Pulsey AI](https://www.pulsey-ai.vercel.app) — AI-Powered YouTube Assistant  
+📊 [Pulsey AI](https://pulsey-ai.vercel.app) — AI-Powered YouTube Assistant  
 Built an intelligent platform for YouTubers to optimize video content with:  
 - **AI-driven video suggestions** & **SEO-friendly metadata**.  
 - In-depth **transcript analysis** (tone, filler words, pace, voice quality).  
